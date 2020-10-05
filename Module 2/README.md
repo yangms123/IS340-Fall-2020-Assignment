@@ -1,2 +1,2 @@
-Bash scripting - Hello World 
-Connect Github to AWS EC2
+1. Bash scripting - Hello World 
+2. Connect Github to AWS EC2
