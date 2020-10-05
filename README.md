@@ -8,7 +8,7 @@
 - ```cd IS340``` (to change directory to IS340 folder you just created) </br>
 - ```git clone <URL>```(to download this Github repository to your local machine, <strong> replace <URL> with the actual url of your repository, example below </strong>)<br/>
 ![Github URL](github-url.png) <br/>
-- ```cd <is340-hop-hands-on-practice-GithubUsername>```(to change directory to the repository you just downloaded, <strong> note that you need to replace ```<HOP#-GithubUsername>``` with the actual repository name you just downloaded </strong>) <br/>
+- ```cd <is340-hop-hands-on-practice-GithubUsername>```(to change directory to the repository you just downloaded, <strong> note that you need to replace ```<GithubUsername>``` with the actual repository name you just downloaded </strong>) <br/>
 - ```git pull https://github.com/cityuseattle/IS340-Fall-2020-Assignment.git``` (to get the most updated content from source repository). If you are prompted to type a message, you can skip this by typing ```:wq``` + ```Enter``` <strong> !!! NOTE: FOR EACH WEEK, YOU NEED TO DO THIS STEP BEFORE YOU START CODING)!!! </strong>
   
 2. Change directory to the corresponding folder of each week. For example: Your work for module 1 should be stored under ```Module 1``` folder; your work for module 2 should be stored under ```Module 2```, and so on:<br/>
